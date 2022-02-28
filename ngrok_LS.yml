@@ -1,0 +1,8 @@
+authtoken: YOUR_TOKEN
+region: eu
+
+tunnels:
+  labelstudio:
+    addr: 9999
+    proto: http
+    bind_tls: true

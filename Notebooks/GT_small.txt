@@ -1,0 +1,194 @@
+génère O
+17 B-nb_rounds
+séries O
+de O
+29 B-duration_wt_min
+minutes O
+56 B-duration_wt_sd
+
+1 B-nb_rounds
+séquence O
+de O
+54 B-duration_wt_sd
+seconde O
+
+prépare O
+27 B-nb_rounds
+série O
+de O
+10 B-duration_wt_sd
+secondes O
+
+génère O
+35 B-nb_rounds
+séquence O
+de O
+39 B-duration_wt_min
+minute O
+
+génère O
+33 B-nb_rounds
+séquences O
+de O
+48 B-duration_wt_sd
+seconde O
+1 B-duration_br_min
+minutes O
+4 B-duration_br_sd
+entre O
+séries O
+
+génère O
+35 B-nb_rounds
+série O
+de O
+43 B-duration_wt_min
+minutes O
+27 B-duration_wt_sd
+108 B-duration_br_sd
+seconde O
+entre O
+chaque O
+
+lance O
+31 B-nb_rounds
+séquences O
+de O
+4 B-duration_wt_hr
+heures O
+27 B-duration_br_sd
+seconde O
+entre O
+séries O
+
+débute O
+41 B-nb_rounds
+set O
+de O
+53 B-duration_wt_min
+minute O
+
+commence O
+33 B-nb_rounds
+séries O
+de O
+84 B-duration_wt_sd
+secondes O
+
+crée O
+15 B-nb_rounds
+sets O
+de O
+22 B-duration_wt_hr
+heures O
+moins B-duration_wt_min
+quart I-duration_wt_min
+175 B-duration_br_min
+minutes O
+entre O
+séries O
+
+39 B-nb_rounds
+série O
+de O
+3 B-duration_wt_min
+minutes O
+65 B-duration_br_min
+minute O
+57 B-duration_br_sd
+entre O
+chaque O
+
+débute O
+29 B-nb_rounds
+cycle O
+de O
+45 B-duration_wt_min
+minute O
+73 B-duration_br_min
+minutes O
+59 B-duration_br_sd
+entre O
+séries O
+
+débute O
+1 B-nb_rounds
+cycle O
+de O
+30 B-duration_wt_sd
+secondes O
+213 B-duration_br_min
+minute O
+14 B-duration_br_sd
+entre O
+chaque O
+série O
+
+commence O
+13 B-nb_rounds
+cycle O
+de O
+76 B-duration_wt_sd
+secondes O
+252 B-duration_br_sd
+entre O
+chaque O
+série O
+
+génère O
+35 B-nb_rounds
+séquence O
+de O
+26 B-duration_wt_hr
+heures O
+moins B-duration_wt_min
+quart I-duration_wt_min
+99 B-duration_br_sd
+secondes O
+entre O
+chaque O
+série O
+
+prépare O
+31 B-nb_rounds
+sets O
+de O
+28 B-duration_wt_hr
+heure O
+moins B-duration_wt_min
+quart I-duration_wt_min
+
+initie O
+17 B-nb_rounds
+séquence O
+de O
+86 B-duration_wt_sd
+secondes O
+151 B-duration_br_min
+minutes O
+entre O
+séries O
+
+commence O
+11 B-nb_rounds
+cycles O
+de O
+18 B-duration_wt_hr
+heures O
+moins B-duration_wt_min
+quart I-duration_wt_min
+
+génère O
+39 B-nb_rounds
+série O
+de O
+13 B-duration_wt_min
+minute O
+
+commence O
+29 B-nb_rounds
+séries O
+de O
+66 B-duration_wt_sd
+seconde O
+
